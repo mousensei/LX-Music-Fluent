@@ -8,9 +8,11 @@
 
 ## 📸 界面预览
 
-*在此添加主界面截图*
+<img width="901" height="582" alt="home" src="https://github.com/user-attachments/assets/170c11c0-63c7-4485-81f9-e15a9791bc69" />
 
-*在此添加播放详情页截图*
+<img width="902" height="582" alt="player" src="https://github.com/user-attachments/assets/001789db-c02f-4525-8967-b4d19da92156" />
+
+<img width="901" height="582" alt="charts" src="https://github.com/user-attachments/assets/d7ba277c-9202-4ef5-9855-0d6045be3e15" />
 
 ## ✨ 美化特色
 
