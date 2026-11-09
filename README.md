@@ -17,14 +17,13 @@ LX Music Desktop 第三方界面美化项目，采用炭黑、深灰与薄荷绿
 
 ## 📸 界面预览
 
-### 首页
 ![首页预览](screenshots/home.png)
 
-### 播放器
-![播放器预览](screenshots/player.png)
+![榜单预览](screenshots/charts.png)
 
-### 排行榜
-![排行榜预览](screenshots/charts.png)
+![播放详情预览](screenshots/player.png)
+
+![设置页预览](screenshots/settings.png)
 
 ## ✨ 美化特色
 
