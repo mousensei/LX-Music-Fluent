@@ -8,9 +8,9 @@ LX Music Desktop 第三方界面美化项目，采用炭黑、深灰与薄荷绿
 
 ## 📥 下载
 
-**最新版本：v1.1.0**
+**最新版本：v1.2.0**
 
-[⬇️ 下载 LX Music Fluent Dark v1.1.0](https://github.com/mousensei/LX-Music-Fluent/releases/latest)
+[⬇️ 下载 LX Music Fluent Dark v1.2.0](https://github.com/mousensei/LX-Music-Fluent/releases/latest)
 
 适用平台：Windows  
 基础软件：LX Music Desktop 2.12.6
